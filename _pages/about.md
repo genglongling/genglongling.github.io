@@ -65,79 +65,6 @@ The paper is accepted/submitted as a research track long/regular paper. “∗�
 **Longling Geng**  
 *SPIE, 3rd International Conference on Artificial Intelligence and Computer Engineering*
 
----
-
-## 🔬 Research Projects  
-Unless otherwise specified, all projects are original contributions led or co-led by Longling Geng.
-
-### Multi-Agent System: LLM for Induction, Reasoning, Planning, and Decision-Making  
-**Stanford InfoLab (Prof. Edward Chang)** | *Jan 2025 – Sep 2025*  
-- Developed a cross-search algorithm from Yahoo, AlphaVantage, and S&P 500 APIs.  
-- Tested 10+ LLM/ML models (GPT-4, LLaMA, SVM, LSTM, etc.), achieving 92% regression accuracy.  
-- Designed AB-MACI algorithm with 90% classification accuracy.  
-- [M-APPLE-OS](https://github.com/genglongling/M-APPLE-OS)  
-- [SagaLLM](https://github.com/genglongling/SagaLLM)  
-- [REALM-Bench](https://github.com/genglongling/REALM-Bench)  
-- [Stock-MACI](https://github.com/genglongling/CS224G-MACI-for-Stock-Prediction)
-
----
-
-### Reinforcement Learning Applications  
-**Stanford EE (Prof. Mert Pilanci)** | *Mar 2025 – Sep 2025*  
-- Co-authored MatRL: iterative algorithm discovery using MCTS.  
-- Submitted to NeurIPS 2025.
-
----
-
-### Minions: On-device and Remote LLM Protocols  
-**Hazy Research (Prof. Chris Ré)** | *Mar 2025 – May 2025*  
-- Decomposed LLM tasks via remote-generated code and local subtasks.  
-- Aggregated multi-round local results into final responses.  
-- [Minions GitHub](https://github.com/HazyResearch/minions)
-
----
-
-### ToolAgentBench: AI Agents for Healthcare  
-**Stanford ML Group (Prof. Andrew Ng)** | *Sep 2024 – Dec 2024*  
-- Built MedAgentBench (700K+ evaluations, 100+ users, FHIR-compliant).  
-- Co-authored NEJM–AI paper.  
-- [Project Page](https://stanfordmlgroup.github.io/projects/medagentbench/)  
-- [Code](https://github.com/stanfordmlgroup/MedAgentBench)
-
----
-
-### Universal Village Systems (Smart Home/Healthcare)  
-**MIT CSAIL (Dr. Yajun Fang)** | *Sep 2023 – Dec 2023*  
-- Engineered hardware algorithms; contributed to IEEE UV 2023 paper.  
-- Spent 200+ hours and reviewed 500+ papers.
-
----
-
-### Constraint Learning for Autonomous Driving  
-**University of Waterloo (Prof. Pascal Poupart)** | *Jan 2023 – Jul 2023*  
-- Developed route planning via probabilistic models and RL.  
-- Achieved 0% collision rate in simulation via Greedy/Beam/Random Search.
-
----
-
-### Alzheimer's Detection with Deep Learning  
-**MIT Physics (Prof. Mark Vogelsberger)** | *May 2022 – Aug 2022*  
-- Achieved 96% diagnosis accuracy over VGG16, ResNet, DenseNet baselines.  
-- Published via SPIE.
-
----
-
-### Graph-based Anomaly Detection  
-**HK PolyU (Profs. Qing Li, Kai Zhou)** | *May 2022 – May 2024*  
-- Designed GNNs for adversarial attack detection.  
-- Co-authored ICASSP 2024 and SCI journal publications.
-
----
-
-### Federated Learning Optimization  
-**HK PolyU (Prof. Jiannong Cao)** | *Sep 2021 – May 2022*  
-- Optimized distributed systems with client partitioning strategies.  
-- Processed multi-modal data in MATLAB and R.
 
 ---
 
@@ -157,7 +84,7 @@ Unless otherwise specified, all projects are original contributions led or co-le
 
 - **Best Capstone Project** – Hong Kong Polytechnic University  
 - **National Science and Technology Competition Medal**  
-- **1st Rank out of 200+ students** (Overall GPA: 3.97/4.30, Minor GPA: 4.2/4.3)
+- **HKSAR Scholarship**
 
 ---
 
@@ -174,11 +101,11 @@ Unless otherwise specified, all projects are original contributions led or co-le
 ## 🎓 Education
 
 **Stanford University** (2024–2026)  
-M.S. in Electrical Engineering – GPA: 4.0/4.0  
-Focus: LLMs, AI, Convex Optimization, Independent Projects
+M.S. in Software and Hardware Systems – GPA: 4.0/4.0  
+Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Projects
 
 **Hong Kong Polytechnic University** (2020–2024)  
-B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.97/4.30  
+B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.97/4.30, Minor GPA: 4.2/4.3
 Awards: Best Capstone Project, National Sci-Tech Medal
 
 
