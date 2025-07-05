@@ -11,7 +11,7 @@ Welcome! I am **Longling Geng**, a student at **Stanford University**, specializ
 
 ## 📍 Current Position
 
-- <-- **Research Assistant**, Stanford OVAL Lab, Stanford InfoLab, Prof. Mert's Group, Hazy Research, and Stanford ML Group. -->
+- <!-- **Research Assistant**, Stanford OVAL Lab, Stanford InfoLab, Prof. Mert's Group, Hazy Research, and Stanford ML Group. -->
 - Based in **Stanford, California**
 
 ---
