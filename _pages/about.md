@@ -19,6 +19,20 @@ Welcome! I am **Longling Geng**, a student at **Stanford University**, specializ
 ## 📄 Publications  
 The paper is accepted/submitted. “∗” indicates equal contribution.
 
+### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
+**Edward Y. Chang**, **Longling Geng**  
+*Submitted to NeurIPS 2025*  
+[Paper]
+
+---
+
+### MatRL: Provably Generalizable Iterative Algorithm Discovery via Monte-Carlo Tree Search  
+**Sungyoon Kim**, **R. V. Dwaraknath**, **Longling Geng**, **Mert Pilanci**  
+*Submitted to NeurIPS 2025*  
+[Paper]
+
+--- 
+
 ### SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning  
 **Edward Y. Chang**, **Longling Geng**  
 *Accepted by VLDB 2025 (51st International Conference on Very Large Data Bases)*  
