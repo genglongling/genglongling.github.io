@@ -100,7 +100,7 @@ The paper is accepted/submitted as a research track long/regular paper. “∗�
 
 ## 🎓 Education
 
-**Stanford University** (2024–2026)  
+**Stanford University** (2024–)  
 Software and Hardware Systems – GPA: 4.0/4.0  
 Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Projects
 
