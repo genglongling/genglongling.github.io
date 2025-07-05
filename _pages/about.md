@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Longling Geng**, a Master’s student in Electrical Engineering at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**, with a strong record of research publications in top-tier venues such as **NeurIPS**, **VLDB**, and **NEJM-AI**.
+Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**.
 
 ## 📍 Current Position
 
-- **Research Assistant**, Stanford OVAL Lab, InfoLab, Hazy Research, and Stanford ML Group.
+- <-- **Research Assistant**, Stanford OVAL Lab, Stanford InfoLab, Prof. Mert's Group, Hazy Research, and Stanford ML Group. -->
 - Based in **Stanford, California**
 
 ---
@@ -101,7 +101,7 @@ The paper is accepted/submitted as a research track long/regular paper. “∗�
 ## 🎓 Education
 
 **Stanford University** (2024–2026)  
-M.S. in Software and Hardware Systems – GPA: 4.0/4.0  
+Software and Hardware Systems – GPA: 4.0/4.0  
 Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Projects
 
 **Hong Kong Polytechnic University** (2020–2024)  
