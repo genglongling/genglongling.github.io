@@ -17,7 +17,7 @@ Welcome! I am **Longling Geng**, a student at **Stanford University**, specializ
 ---
 
 ## 📄 Publications  
-The paper is accepted/submitted as a research track long/regular paper. “∗” indicates equal contribution.
+The paper is accepted/submitted. “∗” indicates equal contribution.
 
 ### SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning  
 **Edward Y. Chang**, **Longling Geng**  
