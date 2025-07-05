@@ -211,12 +211,4 @@ Awards: Best Capstone Project, National Sci-Tech Medal
 
 ---
 
-## 📬 Contact
-
-📧 [gll2027@stanford.edu](mailto:gll2027@stanford.edu)  
-📞 +1 (650) 509-2147 | +852 97139603  
-🌐 [GitHub](https://github.com/genglongling)
-
----
-
-This site is generated using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is fully open-sourced. For a full academic CV, see the [CV page](./cv/).
+<!--This site is generated using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is fully open-sourced. For a full academic CV, see the [CV page](./cv/). --> 
