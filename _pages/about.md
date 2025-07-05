@@ -11,37 +11,13 @@ Welcome! I am **Longling Geng**, a Master’s student in Electrical Engineering 
 
 ## 📍 Current Position
 
-- **Graduate Research Assistant**, Stanford InfoLab & Hazy Research
-- **Machine Learning Researcher**, Stanford ML Group
+- **Research Assistant**, Stanford OVAL Lab, InfoLab, Hazy Research, and Stanford ML Group.
 - Based in **Stanford, California**
 
 ---
 
----
-permalink: /
-title: "Longling Geng | Stanford University"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## 📄 Publications  
-Unless otherwise specified, the paper is accepted/submitted as a research track long/regular paper. “∗” indicates equal contribution.
-
-### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
-**Edward Y. Chang**, **Longling Geng**  
-*Submitted to NeurIPS 2025*  
-[Paper]
-
----
-
-### MatRL: Provably Generalizable Iterative Algorithm Discovery via Monte-Carlo Tree Search  
-**Sungyoon Kim**, **R. V. Dwaraknath**, **Longling Geng**, **Mert Pilanci**  
-*Submitted to NeurIPS 2025*  
-[Paper]
-
----
+The paper is accepted/submitted as a research track long/regular paper. “∗” indicates equal contribution.
 
 ### SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning  
 **Edward Y. Chang**, **Longling Geng**  
@@ -167,16 +143,12 @@ Unless otherwise specified, all projects are original contributions led or co-le
 
 ## 💼 Professional Experience
 
-### Research Assistant  
-- **Stanford, MIT, University of Waterloo, HK PolyU** (2021–2025)  
-- Projects include: LLM planning systems, algorithm discovery, healthcare agents, smart environments.  
-- Roles involved algorithm design, benchmarking, full-stack development, and paper co-authorship.
-
 ---
 
 ## 🧑‍🏫 Teaching
 
-- **Data Mining, Distributed Systems, Computer Architecture**, HK PolyU  
+- **CS372: Artificial Intelligence for Reasoning, Planning, and Decision Making**, Stanford University
+- **COMP1001: Computational Thinking and Problem Solving**, HK PolyU  
 - Served as teaching assistant and project mentor (2021–2024)
 
 ---
@@ -209,6 +181,4 @@ Focus: LLMs, AI, Convex Optimization, Independent Projects
 B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.97/4.30  
 Awards: Best Capstone Project, National Sci-Tech Medal
 
----
 
-<!--This site is generated using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is fully open-sourced. For a full academic CV, see the [CV page](./cv/). --> 
