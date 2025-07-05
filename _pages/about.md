@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Longling Geng | Stanford University"
+title: #"Longling Geng | Stanford University"
 author_profile: true
 redirect_from: 
   - /about/
