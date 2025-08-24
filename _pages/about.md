@@ -7,43 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**.
+Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**. At Stanford University, I am working closely with Prof. Mert Pilanci and Prof. Edward Chang. During undergraduate, I am working closely with Prof. Qing Li and Prof. Kai Zhou. I am also gratitude for valuable guidance and past collaboration with Prof. Andrew Ng, Prof. James Zou, Prof. Jonathan Chen, Prof. Wei Lou, Prof. Hong Va Leong, Prof. Chun Bun Henry Chan, Prof. Dennis Liu.
 
 ## 📍 Current Position
 
-- <!-- **Research Assistant**, Stanford OVAL Lab, Stanford InfoLab, Prof. Mert's Group, Hazy Research, and Stanford ML Group. -->
+- **Research Collaboration:**, Stanford OVAL Lab, Stanford InfoLab, Prof. Mert's Group, Hazy Research, and Stanford ML Group.
+- **Startup:** KCUBE-AI (Seed-round investment by Stanford InfoLab, Hong Kong Science and Technology Park Ideation Program, KTEO, and Hong Kong Polytechnic University.
 
 ---
 
 ## 📄 Publications  
 The paper is accepted/submitted. “∗” indicates equal contribution.
 
+### DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving
+**Longling Geng**, H. Li, V. L. Naess, Mert Pilanci
+*Submitted to AAAI 2026*
+[Paper]
+
+---
+
 ### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
-**Edward Y. Chang**, **Longling Geng**  
+**Longling Geng**, Edward Y. Chang 
 *Submitted to NeurIPS 2025*  
 [Paper]
 
 ---
 
+### REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems  
+**Longling Geng**, Edward Y. Chang  
+*arXiv preprint (arXiv:2502.18836), submitted to KDD 2026*  
+[Paper](https://doi.org/10.48550/arXiv.2502.18836)  
+[Code](https://github.com/genglongling/REALM-Bench)
+
+---
+
 ### MatRL: Provably Generalizable Iterative Algorithm Discovery via Monte-Carlo Tree Search  
-**Sungyoon Kim**, **R. V. Dwaraknath**, **Longling Geng**, **Mert Pilanci**  
+Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci
 *Submitted to NeurIPS 2025*  
 [Paper]
 
 --- 
 
 ### SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning  
-**Edward Y. Chang**, **Longling Geng**  
+Edward Y. Chang, **Longling Geng**  
 *Accepted by VLDB 2025 (51st International Conference on Very Large Data Bases)*  
 [Code](https://github.com/genglongling/SagaLLM)
-
----
-
-### REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems  
-**Longling Geng**, **Edward Y. Chang**  
-*arXiv preprint (arXiv:2502.18836), to be submitted*  
-[Paper](https://doi.org/10.48550/arXiv.2502.18836)  
-[Code](https://github.com/genglongling/REALM-Bench)
 
 ---
 
