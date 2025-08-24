@@ -141,4 +141,4 @@ Awards: Best Capstone Project, National Sci-Tech Medal
 
 ## 🌍 Visitor Map
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=c3e8hDDJ7FzXr5FgFZ7FaJQrMAcYo5Q6ByixJTnBSAk&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1byxa"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=c3e8hDDJ7FzXr5FgFZ7FaJQrMAcYo5Q6ByixJTnBSAk&cl=ffffff" /></a>
