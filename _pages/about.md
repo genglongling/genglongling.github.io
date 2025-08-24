@@ -21,41 +21,41 @@ The paper is accepted/submitted. “∗” indicates equal contribution.
 
 ### DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving
 **Longling Geng**, H. Li, V. L. Naess, Mert Pilanci   
-*Submitted to AAAI 2026*
-[Paper](https://arxiv.org/abs/2508.04066)
-[Code](https://github.com/genglongling/DRIVE)
+*Submitted to AAAI 2026*  
+[Paper](https://arxiv.org/abs/2508.04066)   
+[Code](https://github.com/genglongling/DRIVE)  
 
 ---
 
 ### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
 **Longling Geng**, Edward Y. Chang   
-*Submitted to NeurIPS 2025*  
-[Paper](https://arxiv.org/abs/2505.12501)
-[Code](https://github.com/genglongling/M-APPLE-OS)
+*Submitted to NeurIPS 2025*    
+[Paper](https://arxiv.org/abs/2505.12501)  
+[Code](https://github.com/genglongling/M-APPLE-OS)  
 
 ---
 
 ### REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems  
 **Longling Geng**, Edward Y. Chang  
-*arXiv preprint (arXiv:2502.18836), submitted to KDD 2026*  
-[Paper](https://doi.org/10.48550/arXiv.2502.18836)  
-[Code](https://github.com/genglongling/REALM-Bench)
+*arXiv preprint (arXiv:2502.18836), submitted to KDD 2026*   
+[Paper](https://doi.org/10.48550/arXiv.2502.18836)   
+[Code](https://github.com/genglongling/REALM-Bench)  
 
 ---
 
 ### MatRL: Provably Generalizable Iterative Algorithm Discovery via Monte-Carlo Tree Search  
-Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci   
-*Submitted to NeurIPS 2025*  
-[Paper](https://arxiv.org/abs/2507.03833)
-[Code](https://github.com/Breathingman/NewtonSchulz)
+Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci    
+*Submitted to NeurIPS 2025*   
+[Paper](https://arxiv.org/abs/2507.03833)   
+[Code](https://github.com/Breathingman/NewtonSchulz)   
 
 --- 
 
 ### SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning  
-Edward Y. Chang, **Longling Geng**  
-*Accepted by VLDB 2025 (51st International Conference on Very Large Data Bases)*  
-[Paper](https://arxiv.org/abs/2503.11951)
-[Code](https://github.com/genglongling/SagaLLM)
+Edward Y. Chang, **Longling Geng**   
+*Accepted by VLDB 2025 (51st International Conference on Very Large Data Bases)*   
+[Paper](https://arxiv.org/abs/2503.11951)   
+[Code](https://github.com/genglongling/SagaLLM)  
 
 ---
 
@@ -64,35 +64,35 @@ Edward Y. Chang, **Longling Geng**
 *Accepted by NEJM–AI (2025), IF: 96.2*  
 [Paper](https://doi.org/10.48550/arXiv.2501.14654)  
 [Project](https://stanfordmlgroup.github.io/projects/medagentbench/)  
-[Code](https://github.com/stanfordmlgroup/MedAgentBench)
+[Code](https://github.com/stanfordmlgroup/MedAgentBench) 
 
 ---
 
 ### Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network  
 **B. Yu**, **L. Zhu**, **Longling Geng**, **K. Zhou**  
-*Accepted by ICASSP 2024 (IEEE International Conference on Acoustics, Speech and Signal Processing)*
-[Paper](https://ieeexplore.ieee.org/document/10447587)
+*Accepted by ICASSP 2024 (IEEE International Conference on Acoustics, Speech and Signal Processing)* 
+[Paper](https://ieeexplore.ieee.org/document/10447587) 
 
 ---
 
 ### Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path  
-**B. Yu**, **L. Zhu**, **Longling Geng**, **K. Zhou**  
-*Published in Journal of Knowledge and Information Systems (KAIS 2023), IF: 3.3*
-[Paper](https://link.springer.com/article/10.1007/s10115-024-02327-9)
+**B. Yu**, **L. Zhu**, **Longling Geng**, **K. Zhou**   
+*Published in Journal of Knowledge and Information Systems (KAIS 2023), IF: 3.3* 
+[Paper](https://link.springer.com/article/10.1007/s10115-024-02327-9) 
 
 ---
 
 ### Evaluation of Smart Home Systems and Novel UV-Oriented Solution for Integration, Resilience, Inclusiveness & Sustainability  
-**Longling Geng**, **X. Xiong**, **Z. Liu**, … **Y. Fang**  
-*The 6th International Conference on Universal Village (IEEE UV 2023)*
-[Paper](https://ieeexplore.ieee.org/document/10185519)
+**Longling Geng**, **X. Xiong**, **Z. Liu**, … **Y. Fang**   
+*The 6th International Conference on Universal Village (IEEE UV 2023)* 
+[Paper](https://ieeexplore.ieee.org/document/10185519) 
 
 ---
 
 ### Multi-classification on the Diagnosis of Four Early Stages of Alzheimer’s Disease by Transfer Learning Models  
 **Longling Geng**  
-*SPIE, 3rd International Conference on Artificial Intelligence and Computer Engineering*
-[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12610/126105O/Multi-classification-on-the-diagnosis-of-four-early-stages-of/10.1117/12.2671412.full)
+*SPIE, 3rd International Conference on Artificial Intelligence and Computer Engineering*  
+[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12610/126105O/Multi-classification-on-the-diagnosis-of-four-early-stages-of/10.1117/12.2671412.full) 
 
 ---
 
