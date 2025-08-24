@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**. At Stanford University, I am working closely with Prof. Mert Pilanci and Prof. Edward Chang. During undergraduate, I am working closely with Prof. Qing Li and Prof. Kai Zhou. I am also gratitude for valuable guidance and past collaboration with Prof. Andrew Ng, Prof. James Zou, Prof. Jonathan Chen, Prof. Wei Lou, Prof. Hong Va Leong, Prof. Chun Bun Henry Chan, Prof. Dennis Liu.
+Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **large language models (LLMs)**, **multi-agent systems**, **convex optimization**, and **reinforcement learning**. At Stanford University, I am working closely with Prof. Mert Pilanci and Prof. Edward Chang. During undergraduate, I am working closely with Prof. Qing Li and Prof. Kai Zhou. I am also gratitude for valuable guidance and past collaboration with Prof. Andrew Ng, Prof. James Zou, Prof. Jonathan Chen, Prof. Wei Lou, Prof. Hong Va Leong, Prof. Chun Bun Henry Chan, and Prof. Dennis Liu.
 
 ## 📍 Current Position
 
