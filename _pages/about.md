@@ -133,17 +133,12 @@ B. Yu, L. Zhu, **Longling Geng**, K. Zhou
 Software and Hardware Systems – GPA: 4.0/4.0  
 Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Projects
 
----
-
-## 🌍 Visitor Map
-
-<!-- Paste your ClustrMaps embed code here -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_UNIQUE_ID&cl=ffffff&w=a"></script>
-
-Replace the
-
 **Hong Kong Polytechnic University** (2020–2024)  
 B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.97/4.30, Minor GPA: 4.2/4.3
 Awards: Best Capstone Project, National Sci-Tech Medal
 
+---
 
+## 🌍 Visitor Map
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=c3e8hDDJ7FzXr5FgFZ7FaJQrMAcYo5Q6ByixJTnBSAk&cl=ffffff&w=a"></script>
