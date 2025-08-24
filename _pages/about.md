@@ -97,7 +97,7 @@ B. Yu, L. Zhu, **Longling Geng**, K. Zhou
 ---
 
 ## 💼 Professional Experience
-- **reviewer**: KDD 2025, AAAI 2026
+- **Reviewer**: KDD 2025, AAAI 2026
 
 ---
 
