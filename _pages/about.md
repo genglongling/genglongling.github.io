@@ -63,28 +63,28 @@ Edward Y. Chang, **Longling Geng**
 **Y. Jiang∗**, **K. C. Black∗**, **G. Geng**, **D. Park**, **A. Y. Ng**, **J. H. Chen**  
 *Accepted by NEJM–AI (2025), IF: 96.2*  
 [Paper](https://doi.org/10.48550/arXiv.2501.14654)  
-[Project](https://stanfordmlgroup.github.io/projects/medagentbench/)  
+[Project](https://stanfordmlgroup.github.io/projects/medagentbench/)   
 [Code](https://github.com/stanfordmlgroup/MedAgentBench) 
 
 ---
 
 ### Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network  
 **B. Yu**, **L. Zhu**, **Longling Geng**, **K. Zhou**  
-*Accepted by ICASSP 2024 (IEEE International Conference on Acoustics, Speech and Signal Processing)* 
+*Accepted by ICASSP 2024 (IEEE International Conference on Acoustics, Speech and Signal Processing)*    
 [Paper](https://ieeexplore.ieee.org/document/10447587) 
 
 ---
 
 ### Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path  
 **B. Yu**, **L. Zhu**, **Longling Geng**, **K. Zhou**   
-*Published in Journal of Knowledge and Information Systems (KAIS 2023), IF: 3.3* 
+*Published in Journal of Knowledge and Information Systems (KAIS 2023), IF: 3.3*    
 [Paper](https://link.springer.com/article/10.1007/s10115-024-02327-9) 
 
 ---
 
 ### Evaluation of Smart Home Systems and Novel UV-Oriented Solution for Integration, Resilience, Inclusiveness & Sustainability  
 **Longling Geng**, **X. Xiong**, **Z. Liu**, … **Y. Fang**   
-*The 6th International Conference on Universal Village (IEEE UV 2023)* 
+*The 6th International Conference on Universal Village (IEEE UV 2023)*     
 [Paper](https://ieeexplore.ieee.org/document/10185519) 
 
 ---
@@ -92,7 +92,7 @@ Edward Y. Chang, **Longling Geng**
 ### Multi-classification on the Diagnosis of Four Early Stages of Alzheimer’s Disease by Transfer Learning Models  
 **Longling Geng**  
 *SPIE, 3rd International Conference on Artificial Intelligence and Computer Engineering*  
-[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12610/126105O/Multi-classification-on-the-diagnosis-of-four-early-stages-of/10.1117/12.2671412.full) 
+[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12610/126105O/Multi-classification-on-the-diagnosis-of-four-early-stages-of/10.1117/12.2671412.full)   
 
 ---
 
