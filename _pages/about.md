@@ -20,7 +20,7 @@ Welcome! I am **Longling Geng**, a student at **Stanford University**, specializ
 The paper is accepted/submitted. “∗” indicates equal contribution.
 
 ### DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving
-**Longling Geng**, H. Li, V. L. Naess, Mert Pilanci
+**Longling Geng**, H. Li, V. L. Naess, Mert Pilanci   
 *Submitted to AAAI 2026*
 [Paper](https://arxiv.org/abs/2508.04066)
 [Code](https://github.com/genglongling/DRIVE)
@@ -28,7 +28,7 @@ The paper is accepted/submitted. “∗” indicates equal contribution.
 ---
 
 ### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
-**Longling Geng**, Edward Y. Chan
+**Longling Geng**, Edward Y. Chang   
 *Submitted to NeurIPS 2025*  
 [Paper](https://arxiv.org/abs/2505.12501)
 [Code](https://github.com/genglongling/M-APPLE-OS)
@@ -44,7 +44,7 @@ The paper is accepted/submitted. “∗” indicates equal contribution.
 ---
 
 ### MatRL: Provably Generalizable Iterative Algorithm Discovery via Monte-Carlo Tree Search  
-Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci
+Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci   
 *Submitted to NeurIPS 2025*  
 [Paper](https://arxiv.org/abs/2507.03833)
 [Code](https://github.com/Breathingman/NewtonSchulz)
