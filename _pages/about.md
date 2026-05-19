@@ -148,7 +148,7 @@ Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Proje
 
 **Hong Kong Polytechnic University** (2020–2024)  
 B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.97/4.30, Minor GPA: 4.2/4.3  
-Awards: Best Capstone Project, National Sci-Tech Medal
+Awards: Best Capstone Project, National Science and Technology Medal for "Underwater Robotics"
 
 ---
 
