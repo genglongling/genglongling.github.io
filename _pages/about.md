@@ -19,13 +19,6 @@ Welcome! I am **Longling Geng**, a student at **Stanford University**, specializ
 ## 📄 Publications  
 The paper is accepted/submitted. “∗” indicates equal contribution.
 
-### DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving
-**Longling Geng**, H. Li, V. L. Naess, Mert Pilanci   
-*Submitted to AAAI 2026*  
-[Paper](https://arxiv.org/abs/2508.04066)   
-[Code](https://github.com/genglongling/DRIVE)  
-
----
 
 ### ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning  
 **Longling Geng**, Edward Y. Chang   
@@ -35,9 +28,17 @@ The paper is accepted/submitted. “∗” indicates equal contribution.
 
 ---
 
+### CausalT5K: Diagnosing and Informing Refusal for Trustworthy Causal Reasoning of Skepticism, Sycophancy, Detection-Correction, and Rung Collapse  
+**Longling Geng**, Andy Ouyang, Theodore Wu, Daphne Barretto, Matthew John Hayes, Rachael Cooper, Yuqiao Zeng, Sameer Vijay, Gia Ancone, Ankit Rai, Matthew Wolfman, Patrick Flanagan, Edward Y. Chang  
+*Accepted by KDD 2026 (2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining)*   
+[Paper](https://arxiv.org/abs/2602.08939)   
+[Code](https://github.com/genglongling/CausalT5kBench)  
+
+---
+
 ### REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems  
 **Longling Geng**, Edward Y. Chang  
-*arXiv preprint (arXiv:2502.18836), submitted to KDD 2026*   
+*arXiv preprint (arXiv:2502.18836), Accepted by KDD 2026 (2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining)*   
 [Paper](https://doi.org/10.48550/arXiv.2502.18836)   
 [Code](https://github.com/genglongling/REALM-Bench)  
 
@@ -48,6 +49,14 @@ Sungyoon Kim, R. V. Dwaraknath, **Longling Geng**, Mert Pilanci
 *Submitted to NeurIPS 2025*   
 [Paper](https://arxiv.org/abs/2507.03833)   
 [Code](https://github.com/Breathingman/NewtonSchulz)   
+
+---
+
+### DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving
+**Longling Geng**, H. Li, V. L. Naess, Mert Pilanci   
+*Submitted to AAAI 2026*  
+[Paper](https://arxiv.org/abs/2508.04066)   
+[Code](https://github.com/genglongling/DRIVE)  
 
 --- 
 
