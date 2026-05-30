@@ -106,7 +106,7 @@ B. Yu, L. Zhu, **Longling Geng**, K. Zhou
 ---
 
 ## 💼 Professional Experience
-- **Reviewer**: KDD 2025, AAAI 2026
+- **Reviewer**: KDD 2025, AAAI 2026, ICASSP 2026, KDD 2026, NeurIPS 2026
 
 ---
 
