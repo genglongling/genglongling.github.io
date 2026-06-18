@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Longling Geng**, a student at **Stanford University**, specializing in Software Systems and Artificial Intelligence. My academic focus lies in **convex optimization**, **multi-agent systems**, **large language models (LLMs)**, and **reinforcement learning**. At Stanford University, I am working closely with Prof. Mert Pilanci and Prof. Edward Chang. During undergraduate, I am working closely with Prof. Qing Li and Prof. Kai Zhou. I am also grateful for valuable guidance and past collaboration with Prof. Andrew Ng (Stanford), Prof. James Zou (Stanford), Prof. Jonathan Chen (Stanford), Dr. Yajun Fang (MIT), Prof. Wei Lou (HKPolyU), Prof. Hong Va Leong (HKPolyU), Prof. Chun Bun Henry Chan (HKPolyU), and Prof. Dennis Liu (HKPolyU).
+Welcome! I am **Longling Geng**, a Ph.D. candidate at **Columbia University** supervised by Prof. James Anderson. My academic focus lies in **world model**, **convex optimization**, **multi-agent systems**, **large language models (LLMs)**, and **reinforcement learning**. At Stanford University, I am working closely with Prof. Mert Pilanci and Prof. Edward Chang. During undergraduate, I am working closely with Prof. Qing Li and Prof. Kai Zhou. I am also grateful for valuable guidance and past collaboration with Prof. Andrew Ng (Stanford), Prof. James Zou (Stanford), Prof. Jonathan Chen (Stanford), Dr. Yajun Fang (MIT), Prof. Wei Lou (HKPolyU), Prof. Hong Va Leong (HKPolyU), Prof. Chun Bun Henry Chan (HKPolyU), and Prof. Dennis Liu (HKPolyU).
 
 ## 📍 Current Position
 
@@ -143,11 +143,11 @@ Ph.D. in Electrical Engineering
 Focus: LLM, Multi-Agent System, Database System, and Optimization
 
 **Stanford University** (2024–2026)  
-M.S. in Electrical Engineering – GPA: 4.0/4.3  
+M.S. in Electrical Engineering – cGPA: 3.9/4.3  
 Focus: LLMs, Human-centered Agent and AI, Convex Optimization, Independent Projects
 
 **Hong Kong Polytechnic University** (2020–2024)  
-B.Sc. in Computer Science, Minor in Applied Mathematics – GPA: 3.94/4.30, Minor GPA: 4.2/4.3  
+B.Sc. in Computer Science, Minor in Applied Mathematics – cGPA: 3.91/4.30, Minor GPA: 4.2/4.3  
 Awards: Best Capstone Project, National Science and Technology Medal for "Underwater Robotics"
 
 ---
