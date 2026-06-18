@@ -140,7 +140,7 @@ B. Yu, L. Zhu, **Longling Geng**, K. Zhou
 
 **Columbia University** (2026–2031)  
 Ph.D. in Electrical Engineering  
-Focus: LLM, Multi-Agent System, Database System, and Optimization
+Focus: World Model, LLM, Multi-Agent System, Database System, and Optimization
 
 **Stanford University** (2024–2026)  
 M.S. in Electrical Engineering – cGPA: 3.9/4.3  
